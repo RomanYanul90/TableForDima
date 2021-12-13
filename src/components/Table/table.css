@@ -1,0 +1,17 @@
+.table{
+    text-align: center;
+    border-collapse: collapse;
+
+    width: 100%;
+}
+
+.table__header {
+    height: 60px;
+
+    border-bottom: 3px solid #ddd;
+}
+
+.table__row {
+    height: 60px;
+    border-bottom: 2px solid #ddd;
+}
